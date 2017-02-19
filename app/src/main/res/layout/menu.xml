@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <item android:id="@+id/menu_bookmark"
+        android:icon="@drawable/icon_bookmark"
+        android:title="Bookmark" />
+
+    <item android:id="@+id/menu_save"
+        android:icon="@drawable/icon_save"
+        android:title="Save" />
+
+</menu>
